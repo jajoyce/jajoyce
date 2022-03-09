@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm John, a full-stack developer from Boston. I'm currently finishing a full-time Software Engineering Immersive bootcamp at General Assembly and looking forward to what's next. 
+
+<br />
+<a href="https://github.com/jajoyce">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jajoyce&theme=onedark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoyce&theme=onedark&layout=compact" />
+</a>
+
+
+
 <!--
 **jajoyce/jajoyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
