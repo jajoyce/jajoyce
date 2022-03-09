@@ -19,8 +19,8 @@ Feel free to reach out!
 
 <br />
 <a href="https://github.com/jajoyce">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jajoyce&hide=issues,contribs&count_private=true&theme=github_dark&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoyce&theme=github_dark&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jajoyce&hide=issues,contribs&count_private=true&theme=github_dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoyce&theme=github_dark&layout=compact" />
 </a>
 
 
