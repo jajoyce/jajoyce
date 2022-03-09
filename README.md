@@ -4,9 +4,9 @@ I'm John, a full-stack developer from Boston. I'm currently finishing a full-tim
 
 Feel free to reach out! 
 
-<a href="https://www.linkedin.com/in/johnajoyce/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-John%20A%20Joyce-blue?style=flat-square&logo=linkedin"></a><br /><br />
+<a href="https://www.linkedin.com/in/johnajoyce/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-John%20A.%20Joyce-blue?style=flat-square&logo=linkedin"></a><br /><br />
 
-💻 &nbsp;
+🛠 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
