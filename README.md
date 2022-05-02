@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John, a full-stack developer from Boston. I just finished a full-time Software Engineering Immersive bootcamp at General Assembly and looking forward to what's next. 
+I'm John, a full-stack developer from Boston. I just finished a full-time Software Engineering Immersive bootcamp at General Assembly, and I'm looking forward to what's next. 
 
 Feel free to reach out! 
 
