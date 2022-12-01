@@ -2,9 +2,9 @@
 
 I'm John, a software engineer from Boston. After graduating from the full-time Software Engineering Immersive bootcamp at General Assembly, I've been working in a full-stack role with a great start-up team and loving the professional experience. 
 
-Feel free to reach out! 
+While you're here, check out my personal project, VoterHub! (<a href="https://voter-hub.netlify.app/" target="_blank">Live site here</a>, front-end and back-end repos pinned below ↓)
 
-And check out my VoterHub project! (<a href="https://voter-hub.netlify.app/" target="_blank">Live site here</a>, front-end and back-end repos  pinned below ↓)
+Feel free to reach out! 
 
 <a href="https://www.linkedin.com/in/johnajoyce/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-John%20A.%20Joyce-blue?style=flat-square&logo=linkedin"></a><br /><br />
 
@@ -20,11 +20,16 @@ And check out my VoterHub project! (<a href="https://voter-hub.netlify.app/" tar
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 <br />
-<a href="https://github.com/jajoyce">
+<!-- TODO: get back to this, vercel error: -->
+<!-- <a href="https://github.com/jajoyce">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jajoyce&hide=issues,contribs&count_private=true&theme=github_dark&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoyce&theme=github_dark&layout=compact" />
-</a>
+</a> -->
 
+[![JAJ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jajoyce&show_icons=true&hide=issues,contribs&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/jajoyce#gh-dark-mode-only)
+[![JAJ's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jajoyce&show_icons=true&hide=issues,contribs&count_private=true&theme=default#gh-light-mode-only)](https://github.com/jajoyce#gh-light-mode-only)
+
+<!-- Stats card credit: https://github.com/anuraghazra/github-readme-stats -->
 
 
 <!--
