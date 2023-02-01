@@ -2,11 +2,11 @@
 
 I'm John, a software engineer from Boston. After graduating from the full-time Software Engineering Immersive bootcamp at General Assembly, I've been working in a full-stack role with a great start-up team and loving the professional experience. 
 
-While you're here, check out my personal project, VoterHub! (<a href="https://voter-hub.netlify.app/" target="_blank">Live site here</a>, front-end and back-end repos pinned below ↓)
+While you're here, check out my personal project, VoterHub! (<a href="https://voter-hub.netlify.app/" target="_blank">Live site here</a>, front-end and back-end repos pinned below ↓) 
 
 Feel free to reach out!  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20A.%20Joyce-blue?style=social&logo=linkedin&color=blue)](https://www.linkedin.com/in/johnajoyce/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20A.%20Joyce-blue?style=social&logo=linkedin&color=blue)](https://www.linkedin.com/in/johnajoyce/) -->
 <!-- <a href="https://www.linkedin.com/in/johnajoyce/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-John%20A.%20Joyce-blue?style=social&logo=linkedin&color=blue"></a><br /><br /> -->
 &nbsp;
 🛠 &nbsp;
