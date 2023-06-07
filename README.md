@@ -27,10 +27,10 @@ Feel free to reach out!
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jajoyce&hide=issues,contribs&count_private=true&theme=github_dark&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajoyce&theme=github_dark&layout=compact" />
 </a> -->
-
+<!-- 
 [![JAJoyce's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jajoyce&show_icons=true&hide=issues,contribs&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/jajoyce#gh-dark-mode-only)
 [![JAJoyce's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jajoyce&show_icons=true&hide=issues,contribs&count_private=true&theme=default#gh-light-mode-only)](https://github.com/jajoyce#gh-light-mode-only)
-
+ -->
 
 <!-- Stats card credit: https://github.com/anuraghazra/github-readme-stats -->
 
